@@ -1,4 +1,4 @@
-# VerifyBot
+# Verify Discord Bot
 
 Manual-verification Discord Bot based on Discord API.
 
