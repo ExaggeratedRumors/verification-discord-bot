@@ -7,14 +7,14 @@ Site and chanell utils need to be fill in Constant class.
 Bot generates code and asks new user user for an address of predefined website he put the code and assign him special role and nickname.
 
 
-# Commands:
+# Commands
 ```
 !new      - generates new key
 
 !verify   - attempt to verify the account
 ```
 
-# Attributes to fill:
+# Attributes to fill
 ```
 token             - bot's token
 
