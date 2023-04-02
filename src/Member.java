@@ -1,6 +1,7 @@
 public class Member{
 
-    private String id, key;
+    private final String id;
+    private String key;
 
     public Member(String id, String key){
         this.id = id;

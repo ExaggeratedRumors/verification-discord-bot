@@ -102,7 +102,7 @@ public class VerifyConstraints {
                 key = obj.getKey();
             }
         }
-        event.getChannel().sendMessage(sbd.toString().substring(0,1500)).queue();
+        event.getChannel().sendMessage(sbd.substring(0,1500)).queue();
         return sbd.toString().contains(key);
     }
 
